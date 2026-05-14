@@ -20,7 +20,8 @@ openssh-client \
 sudo \
 wine \
 zip \
-zlib1g-dev
+zlib1g-dev \
+xxd
 
 # Workaround for electron packager
 RUN \
